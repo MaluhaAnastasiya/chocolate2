@@ -1,2 +1,2 @@
 # Japanesesweets
-chocolate
+sweets
